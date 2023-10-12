@@ -1,10 +1,4 @@
-/*
 
-Template 2085 Neuron
-
-http://www.tooplate.com/view/2085-neuron
-
-*/
 
 body {
 		background: #ffffff;
@@ -30,6 +24,8 @@ h1 {
     font-size: 62px;
     padding-bottom: 14px;
     margin-bottom: 0px;
+    color: #FFFFFF;
+    
 }
 
 h2 {
@@ -353,7 +349,7 @@ a:hover, a:active, a:focus {
 }
 
 h1, h2 {
-    color: #FFFFFF;
+    color: #333;
 }
 
 ul {
