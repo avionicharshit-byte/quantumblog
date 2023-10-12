@@ -339,21 +339,39 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .col-md-6 {
-  padding-top: 22px;
-  padding-bottom: 32px;
+.about-container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-#about .col-md-6 img {
-  padding: 22px 0px 22px 22px;
+.intro, .interests, .contact {
+    margin-bottom: 20px;
 }
 
-#about .col-md-4 {
-  padding-bottom: 32px;
+h1, h2 {
+    color: #333;
 }
 
-#about .col-md-4 img {
-  padding-top: 12px;
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 
