@@ -339,7 +339,7 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-.about-container {
+#about .about-container {
     max-width: 800px;
     margin: auto;
     background-color: #f9f9f9;
