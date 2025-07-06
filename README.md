@@ -1,4 +1,4 @@
-#Qubit
+Qubit
 Website link - https://avionicharshit-byte.github.io/quantumblog/
 
 # Qubit
